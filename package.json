@@ -1,0 +1,26 @@
+{
+  "name": "party",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serverExpress.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meghanprestemon/party.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meghanprestemon/party/issues"
+  },
+  "homepage": "https://github.com/meghanprestemon/party#readme"
+}
